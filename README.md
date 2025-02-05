@@ -2,7 +2,7 @@
 
 ## 🚀 Project Overview
 
-British Airways (BA) has provided a comprehensive dataset containing reviews from their customers. This dataset includes valuable feedback categorized by **aircraft type**, **cabin type**, **traveler type**, and **traveler country**. BA is seeking to gain insights into customer experiences, identify trends in satisfaction across different categories, and pinpoint areas for improvement.
+British Airways (BA) has provided a comprehensive dataset containing reviews from their customers. This dataset includes valuable feedback categorized by **aircraft type**, **cabin type**, **traveller type**, and **traveller country**. BA is seeking to gain insights into customer experiences, identify trends in satisfaction across different categories, and pinpoint areas for improvement.
 
 This project focuses on creating an **interactive Tableau dashboard** that organizes and visualizes this data, making it easy to compare reviews and uncover actionable insights. By analyzing the feedback, BA can enhance customer satisfaction and make data-driven improvements to their services.
 
@@ -17,9 +17,11 @@ This project focuses on creating an **interactive Tableau dashboard** that organ
 - Offer **actionable insights** to improve the overall customer experience.
 
 ## 🔧 Skills Demonstrated
-- **Dashboard Design**: Building an intuitive, interactive dashboard in Tableau with filters and drill-down capabilities.
-- **Data Visualization**: Creating charts, heatmaps, and KPIs to highlight key trends in customer satisfaction.
-- **Data Analysis**: Identifying patterns and actionable insights based on customer feedback.
+- 📊 Dashboard Design: Creating intuitive, user-friendly Tableau dashboards.
+- 🎨 Data Visualisation: Designing maps, line charts, and KPIs to highlight key insights.
+- 🔍 Data Analysis: Identifying trends and extracting actionable insights from data.
+- ⚙️ Interactive Features: Adding filters and drill-down options for dynamic exploration.
+- 💡 Customer Experience Insights: Using data to pinpoint satisfaction gaps and improvement opportunities.
 
 ## 🖼 Dashboard Preview
 Explore the interactive dashboard here: [British Airways Review Dashboard](https://public.tableau.com/app/profile/amy.pape/viz/BritishAirwaysReviewDashboard_17387826696400/Dashboard1?publish=yes)
