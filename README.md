@@ -50,7 +50,6 @@ Based on the analysis of BA's review dataset, the following insights and recomme
 5. **Leverage Traveler Country Insights**:  
    - Reviews from countries with high satisfaction can guide targeted marketing efforts, while countries with lower satisfaction can benefit from localized improvements in service.
 
-### Example Use Case
 BA's leadership can use this dashboard to:
 - Identify and address pain points in specific cabin types or aircraft.
 - Tailor services to meet the needs of different traveler types.
